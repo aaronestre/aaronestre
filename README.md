@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aaron Estrellado!
 
-<!--
-**aaronestre/aaronestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I am a recent Computer Science graduate with a passion for software development and a keen interest in fantasy football. I love building web applications and exploring new technologies.</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronestre"/>
+  <p>Currently into Javascript and React!</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Exploring Three.js and Next.js
+
+## 🧡 Hobbies
+- Technology
+- Photography
+- Videography
+- Video Games
+- Sports (NFL and NBA)
+- Working Out
